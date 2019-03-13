@@ -8,7 +8,7 @@ package ca.sheridancollege.project;
 /**
  * A class that models each Player in the game. Players have an identifier, which should be unique.
  * @author dancye, 2018
- * Team members: Nitee Sharma(991511406), Vinit Patel, Dien Nguyen(991501600)
+ * Team members: Nitee Sharma(991511406), Vinit Patel(991510686), Dien Nguyen(991501600)
  */
 public abstract class Player 
 {
