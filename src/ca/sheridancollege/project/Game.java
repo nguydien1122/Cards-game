@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * The class that models your game. You should create a more specific
  * child of this class and instantiate the methods given.
  * @author dancye, 2018
- * Team members: Nitee Sharma(991511406), Vinit Patel, Dien Nguyen(991501600)
+ * Team members: Nitee Sharma(991511406), Vinit Patel(991510686), Dien Nguyen(991501600)
  */
 public abstract class Game 
 {
