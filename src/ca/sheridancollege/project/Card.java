@@ -10,7 +10,7 @@ package ca.sheridancollege.project;
  * enough to be instantiated for any Card game. Students wishing to add to the code 
  * should remember to add themselves as a modifier.
  * @author dancye, 2018
- * Team members: Nitee Sharma(991511406), Vinit Patel, Dien Nguyen(991501600)
+ * Team members: Nitee Sharma(991511406), Vinit Patel(991510686), Dien Nguyen(991501600)
  * 
  */
 public abstract class Card 
