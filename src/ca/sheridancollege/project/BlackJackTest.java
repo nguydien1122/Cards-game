@@ -66,22 +66,6 @@ public class BlackJackTest {
         assertEquals(expResult, result);
     }
 
-  
-    
-    /**
-     * Test of getCard method, of class BlackJack.
-     */
-    @Test
-    public void testGetCardbad() {
-        System.out.println("Bad test of getCard");
-        Vector hand = null;
-        int position = -1;
-        BlackJack instance = new BlackJack();
-        int expResult = 0;
-        int result = instance.getCard(hand, position);
-        assertEquals(expResult, result);
-    }
-   
     /**
      * Test of getCardVal method, of class BlackJack.
      */
