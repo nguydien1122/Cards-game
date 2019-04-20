@@ -15,7 +15,7 @@ import java.util.Collections;
  * @author dancye
  * Team members: Nitee Sharma(991511406), Vinit Patel(991510686), Dien Nguyen(991501600)
  */
-public class GroupOfCards 
+public class GroupOfCards extends Card
 {
    
     //The group of cards, stored in an ArrayList
@@ -53,6 +53,11 @@ public class GroupOfCards
      */
     public void setSize(int givenSize) {
         size = givenSize;
+    }
+
+    @Override
+    public String toString() {
+       return "";
     }
     
 }//end class
